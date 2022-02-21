@@ -1,4 +1,4 @@
 # uvic-crs
-We designs a new uvic course registration system UI
+We designs a course registration UI
 
 website: https://onlineacademiccommunity.uvic.ca/lazymen/
